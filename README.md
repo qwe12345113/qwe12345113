@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwe12345113&show_icons=true&locale=en&layout=compact" alt="qwe12345113" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwe12345113&" alt="qwe12345113" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwe12345113&" alt="qwe12345113" /></p>-->
 
 <h3 align="left">Connect with me:</h3>
 
