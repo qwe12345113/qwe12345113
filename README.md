@@ -5,10 +5,15 @@
 <p align="left">
 </p>-->
 <h3 align="left">About me:</h3>
-
+<!--
 - 🌱 I obtained my Ph.D. from Yuan Ze University, Taiwan.
 - 😄 I'm passion about AI, deep learning, computer vision, and image processing.
-- 🔭 I’m currently working as a computer vision development engineer.
+- 🔭 I’m currently working as a computer vision development engineer.-->
+
+- 🎓 Currently pursuing an MSc in Data Science at King’s College London.
+- 🌱 Ph.D. in Computer Science from Yuan Ze University, Taiwan.
+- 🤖 I’m fascinated by AI, deep learning, computer vision, and image processing.
+- 🚀 Passionate about bridging academic research and real-world applications through data-driven innovation.
 
 
 <h3 align="left">Languages and Tools:</h3>
