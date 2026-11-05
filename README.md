@@ -1,45 +1,66 @@
-<h1 align="center">Hi 👋, I'm Joe</h1>
-<!--<h3 align="center">A Senior Engineer from Taiwan</h3>-->
+<div align="center">
 
-<!--
-<p align="left">
-</p>-->
-<h3 align="left">About me:</h3>
-<!--
-- 🌱 I obtained my Ph.D. from Yuan Ze University, Taiwan.
-- 😄 I'm passion about AI, deep learning, computer vision, and image processing.
-- 🔭 I’m currently working as a computer vision development engineer.-->
+# Hi, I'm Joe Cheng
 
-- 🎓 Currently pursuing an MSc in Data Science at King’s College London.
-- 🌱 Ph.D. in Computer Science from Yuan Ze University, Taiwan.
-- 🤖 I’m fascinated by AI, deep learning, computer vision, and image processing.
-- 🚀 Passionate about bridging academic research and real-world applications through data-driven innovation.
+**Data Science | Machine Learning | Computer Vision**
 
+PhD in Computer Science | MSc in Data Science | London, UK
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[Portfolio](https://qwe12345113.github.io/Resume/) | [LinkedIn](https://www.linkedin.com/in/joe66-cheng/) | [Email](mailto:myworkac38610@gmail.com)
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwe12345113&show_icons=true&locale=en&layout=compact" alt="qwe12345113" /></p>-->
+</div>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwe12345113&" alt="qwe12345113" /></p>-->
+---
 
-<h3 align="left">Connect with me:</h3>
+## About Me
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myworkac38610@gmail.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/joe66-zheng)
-[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qwe12345113)
+I'm a data science and computer vision researcher with a **PhD in Computer Science from Yuan Ze University** and an **MSc in Data Science from King's College London**.
 
-<!--
-**qwe12345113/qwe12345113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work spans deep learning, image processing, and practical machine learning systems. I enjoy taking ideas from research through experimentation, evaluation, and implementation, with a focus on building models that solve real-world problems.
 
-Here are some ideas to get you started:
+- **Interests:**  Data Analysis, Deep/Machine Learning, Computer Vision, and Applied AI
+- **Experience:** Model development, experimental design, performance evaluation, and image-processing research
+- **Based in:** London, United Kingdom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+| Area | Tools and Techniques |
+| --- | --- |
+| **Programming & Data** | Python, SQL, MATLAB, Html, pandas, NumPy |
+| **Machine Learning** | PyTorch, supervised learning, model evaluation |
+| **Computer Vision** | CNNs, U-Net, YOLO, semantic segmentation, object detection, image processing |
+| **Visualisation & Development** | Matplotlib, Git, GitHub, Django, MySQL |
+
+## Featured Projects
+
+### [Surgical Instrument Segmentation in Laparoscopic Videos](https://github.com/qwe12345113/7CCSMPRJ-MSc_Individual_Project)
+**PyTorch | U-Net | Semantic Segmentation | Cross-validation**
+
+Developed a binary semantic segmentation pipeline for laparoscopic instruments, including aspect-ratio-preserving preprocessing, data augmentation, five-fold cross-validation, and learning-curve experiments. Evaluated model quality using Dice, IoU, precision, recall, and boundary-based metrics.
+
+### [BDD100K YOLOv7 Nano](https://github.com/aicv-perception/BDD100K-YOLOv7-Nano)
+**Python | YOLOv7 | Object Detection**
+
+Explored a lightweight Nano adaptation of a YOLOv7-based object detection architecture and training on the BDD100K driving dataset, with a focus on model efficiency and practical computer vision applications.
+
+### [Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery](https://github.com/bigmms/chen_grsl21_tpbf)
+**MATLAB | Image Processing | Remote Sensing**
+
+Research code for bilateral smoothing of remote sensing imagery, demonstrating experience with image enhancement and filtering methods.
+
+### [Deep Trident Decomposition Network for License Plate Glare Removal](https://github.com/bigmms/chen_tits21)
+**Python | Deep Learning | Image Restoration**
+
+Research implementation of a deep learning method for reducing glare in single license plate images.
+
+## Research Interests
+
+`Applied Machine Learning` | `Computer Vision` | `Deep Learning` | `Image Segmentation` | `Image Restoration` | `Data Science`
+
+## Let's Connect
+
+I'm interested in opportunities to apply research and engineering skills to real-world data and AI challenges.
+
+- [Portfolio / CV](https://qwe12345113.github.io/Resume/)
+- [LinkedIn](https://www.linkedin.com/in/joe66-cheng/)
+- [Email](mailto:myworkac38610@gmail.com)
