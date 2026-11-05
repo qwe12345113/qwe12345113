@@ -61,6 +61,6 @@ Research implementation of a deep learning method for reducing glare in single l
 
 I'm interested in opportunities to apply research and engineering skills to real-world data and AI challenges.
 
-- [Portfolio / CV](https://qwe12345113.github.io/Resume/)
+- [Portfolio / CV](https://qwe12345113.github.io/CV_webside/)
 - [LinkedIn](https://www.linkedin.com/in/joe66-cheng/)
 - [Email](mailto:myworkac38610@gmail.com)
